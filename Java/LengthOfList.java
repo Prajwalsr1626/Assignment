@@ -9,6 +9,6 @@ public class LengthOfList {
         val.add(3);
         val.add(4);
         val.add(5);
-        System.out.println("length of the Arraylist is"+val.size());
+        System.out.println("length of the Arraylist is"+val.size()); 
     }
 }
